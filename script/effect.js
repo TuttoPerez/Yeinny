@@ -10,8 +10,8 @@ $('document').ready(function() {
             const canvasC = document.getElementById('c');
 
             const config = {
-                birthdate: 'Junio 10, 2024',
-                name: 'DANIELA'
+                birthdate: 'August 25, 2021',
+                name: 'ZUBIYA'
             };
 
             function hideEverything() {
